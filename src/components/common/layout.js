@@ -28,14 +28,14 @@ const Layout = ({children}) => (
             },
             {name: 'keywords', content: 'web development, digital agency'},
             {
-              name: 'og:image',
+              property: 'og:image',
               content: data.site.siteMetadata.image,
             },
-            {name: 'og:title', content: data.site.siteMetadata.title},
-            {name: 'og:type', content: 'website'},
-            {name: 'og:url', content: 'https://www.brahmilabs.in'},
+            {property: 'og:title', content: data.site.siteMetadata.title},
+            {property: 'og:type', content: 'website'},
+            {property: 'og:url', content: 'https://www.brahmilabs.in'},
             {
-              name: 'og:description',
+              property: 'og:description',
               content: 'We are a digital agency. We help small and medium businesses redefine themselves in the digital world',
             },
           ]}
