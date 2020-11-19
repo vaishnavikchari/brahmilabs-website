@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Brahmilabs Website',
-    image: 'brahmilabs-homeshot.png',
+    image: 'https://www.brahmilabs.in/brahmilabs-homeshot.png',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
