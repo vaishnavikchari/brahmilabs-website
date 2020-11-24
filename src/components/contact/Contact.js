@@ -4,7 +4,7 @@ import ContactForm from './ContactForm';
 import ContactInformation from './ContactInformation';
 
 const Contact = () => (
-  <section id="three" className="wrapper style2 fade-up">
+  <section id="four" className="wrapper style3 fade-up">
     <div className="inner">
       <h2>Get in touch</h2>
       <p>

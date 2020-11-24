@@ -9,7 +9,6 @@ const Capabilities = () => (
       <h2>What we do</h2>
       <p>
         We are a digital development agency. We work with small and medium businesses to build their web presence and automate their day to day functions. We consult on digital strategy, web design and development, digital assistants and business process automation.
-        {' '}
       </p>
       <div className="features">
         <CapabilityList />
