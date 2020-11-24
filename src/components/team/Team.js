@@ -8,7 +8,7 @@ const Team = () => (
     <div className="inner">
       <h2>Who we are</h2>
       <p>
-        We are a small team of passionate business and technology experts. We work at the intersection of business, technology and products. We work along with our clients or their teams to build products or productized services, and set them up for success in their technology endeavours.
+        We are a team of passionate business and technology experts. We work at the intersection of business, technology and products. We work along with our clients to build products or productized services, and set them up for success in their technology endeavours.
       </p>
       <div className="team">
         <MemberList />

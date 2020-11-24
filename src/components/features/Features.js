@@ -11,10 +11,10 @@ const Features = () => {
     {
       image: pic1,
       heading: 'Ecommerce',
-      description: 'eCommerce solutions for  product-centric businesses to reach their audience digitally. Our solutions are scalable and mobile-friendly, besides being packaged with an amazing user experience',
+      description: 'eCommerce solutions for product-centric businesses to reach their audience digitally. Our solutions are scalable and mobile-friendly, besides being packaged with an amazing user experience',
       to: {
-        href: '#two',
-        label: 'Learn more',
+        href: '#four',
+        label: 'Request Quote',
       },
     },
     {
@@ -22,8 +22,8 @@ const Features = () => {
       heading: 'Business Automation',
       description: 'Cost-effective, yet hightly productive solution to automate your day to day business processes. Solutions to transform the way you operate, allowing you to do more with less and scale',
       to: {
-        href: '#two',
-        label: 'Learn more',
+        href: '#four',
+        label: 'Request Quote',
       },
     },
     {
@@ -31,8 +31,8 @@ const Features = () => {
       heading: 'Conversational AI',
       description: 'Digital virtual assistants that converse with your customers to serve as your brand ambassador for routine support and customer service functions',
       to: {
-        href: '#two',
-        label: 'Learn more',
+        href: '#four',
+        label: 'Request Quote',
       },
     },
   ];

@@ -19,7 +19,7 @@ const Feature = ({href, image, heading, description, to}) => (
         <p>{description}</p>
         <ul className="actions">
           <li>
-            <Scroll type="id" element="two">
+            <Scroll type="id" element="four">
               <Link className="button" to={to.href}>
                 {to.label}
               </Link>

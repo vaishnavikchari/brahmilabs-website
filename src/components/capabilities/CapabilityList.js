@@ -11,7 +11,7 @@ const CapabilityList = () => {
     },
     {
       heading: 'Business Automation',
-      description: 'Business automation solution using software and tools designed with smaller brands in mind, that help you take your venture to the next level',
+      description: 'Business automation solution using software and tools designed for ambitious brands, that help you take your venture to the next level',
       iconClass: 'fa-cog',
     },
     {
@@ -21,7 +21,7 @@ const CapabilityList = () => {
     },
     {
       heading: 'Cloud and web apps',
-      description: 'Light-weight solutions with custom build apps and/or open-source software implementation to meet your business goals',
+      description: 'Light-weight solutions with custom built apps and/or open-source software implementation to meet your business goals',
       iconClass: 'fa-desktop',
     },
   ]
